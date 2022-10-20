@@ -1,22 +1,11 @@
-# airplane-reservation-system-python-2
+# airplane-reservation-system-python
 
-## Announcement 🔊:
-**🔴IMPORTANT🔴** :
-Few new things have been added into the code [16/05/2021]
 - [ ] different names is asked for each seat
 - [ ] different phone number is asked for each seat
 - [ ] All the issues present in the first program have been fixed in this one with more adaptations
 
-If you want the code before this change you can access that code [here]
 
-[here]: https://github.com/voyager2005/aeroplane-seat-reservation-python/blob/main/original%20code.txt
 
-**🔵OTHER🔵**:
-- [ ] Adding new exception handeling cases soon
-- [ ] A Train Seat Reservation system program is still a work in progress
-
-## License and copyright
-This repository is licensed under [MIT License](LICENSE)
 
 ## Program Output
 ![image10 0](https://user-images.githubusercontent.com/76808676/106876662-f5b57100-66fd-11eb-9e8b-b18670b8f699.png)
@@ -48,11 +37,4 @@ You can change the colouring of the text... ie. change ```{bcolors.WARNING}...{b
 ### Case 5: Trying to book already reserved seats
 ![image10 7](https://user-images.githubusercontent.com/76808676/106879038-a886ce80-6700-11eb-9de9-2a07090c68b1.png)
 ### Case 6: Trying to book your seat again 
-Displays the same message as above
 
-## Links to other repositories
-[Travelocity]
-
-
-[Travelocity]: https://github.com/voyager2005/Travelocity
-[Exception Handeling]: https://github.com/voyager2005/aeroplane-seat-reservation-python/blob/main/EXCEPTION_HANDELING.md
