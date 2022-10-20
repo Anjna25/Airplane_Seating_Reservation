@@ -23,7 +23,7 @@ You can change the colouring of the text... ie. change ```{bcolors.WARNING}...{b
 <br/>```True``` means that the seat is booked 
 <br />```False``` means that the seat is available
 <br />
-<br />You can ```ctrl+f``` to find all the ```https://github.com/voyager2005``` and ```ctrl+r``` to replace them with your github link
+<br />You can ```ctrl+f``` to find all the ```https://github.com/Anjna25/Airplane_Seating_Reservation``` and ```ctrl+r``` to replace them with your github link
 
 ## [Exception Handeling]
 ### Case 1: When accpeting phone numbers
