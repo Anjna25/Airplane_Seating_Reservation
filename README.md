@@ -1,4 +1,4 @@
-# airplane-reservation-system-python
+# airplane-seating-reservation-system-python
 
 - [ ] different names is asked for each seat
 - [ ] different phone number is asked for each seat
