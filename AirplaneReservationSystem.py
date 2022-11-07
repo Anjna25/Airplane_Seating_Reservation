@@ -37,7 +37,7 @@ occupied_seats = [True, False,                             # row 1
                   False, True, True, True, True, False,    # row 7
                   True, False, False, False, False, True,  # row 8
                   True, True, False, False, False, False,  # row 9
-                  False, False, False, True, False, True,   # row 10
+                  False, False, False, True, True, True,   # row 10
                   True, True, True, True, True, True]      # row 11
 all_seats = ["1A", "1F", "2A", "2F", "3A", "3B", "3E", "3F", "4A", "4B", "4E", "4F", "5A", "5B", "5E", "5F",
              "6A", "6B", "6C", "6D", "6E", "6F", "7A", "7B", "7C", "7D", "7E", "7F", "8A", "8B", "8C", "8D", "8E", "8F",
@@ -58,7 +58,7 @@ def display_welcome():
     print(" *   *   *   * * * *   *       *        *         *  *  *  *   * * * * ")
     print(" * *   * *   *         *        *        *       *   *     *   *       ")
     print(" *       *   * * * *   * * * *   * * *    * * * *    *     *   * * * * ")
-    print(f"{bcolors.BOLD}{bcolors.HEADER}{bcolors.UNDERLINE}Welcome to https://github.com/voyager2005 Travels, "
+    print(f"{bcolors.BOLD}{bcolors.HEADER}{bcolors.UNDERLINE}Welcome to https://github.com/Anjna25/Airplane_Seating_Reservation-System , "
           f"We would like to take some information:{bcolors.ENDC}{bcolors.ENDC}{bcolors.ENDC}")
 
 
@@ -402,7 +402,7 @@ def display_boarding_pass():  # displaying boarding pass -----------------------
             cost = 10000
 
         #  I know you want to change the travels name? ↓↓↓
-        print("   https://github.com/voyager2005 Travels      ")
+        print("   https://github.com/Anjna25/Airplane_Seating_Reservation-System     ")
 
         print(f"{bcolors.OKBLUE}Name: {bcolors.ENDC}{name[i]} "
               f"{bcolors.OKBLUE}Flight: {bcolors.ENDC}OKL012"
